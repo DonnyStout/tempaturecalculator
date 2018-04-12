@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Tempature Calculator</string>
+  <string name="fahrenheit">°Fahrenheit</string>
+  <string name="celsius">Celsius(°C)</string>
+  <string name="kelvin">Kelvin(°K)</string>
+  <string name="int_place_holder">%1$d</string>
+  <string name="double_place_holder">%1$.2d</string>
+  <string name="convert">Convert</string>
+</resources>
