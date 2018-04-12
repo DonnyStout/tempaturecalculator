@@ -39,7 +39,7 @@
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:hint="@string/fahrenheit"
-      android:inputType="number"/>
+      android:inputType="number|phone"/>
 
 
 
